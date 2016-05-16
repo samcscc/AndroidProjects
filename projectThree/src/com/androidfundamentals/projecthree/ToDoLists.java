@@ -265,7 +265,7 @@ public class ToDoLists {
         System.out.println(" ");
         System.out.println("	 Android App: ToDostagramV4  Build: 1.4.4.14.2016");
         System.out.println(" ");
-        System.out.println("Welcome! Choose from the Menu");
+        System.out.println("please, Choose from the Menu");
         System.out.println("1. Add a task");
         System.out.println("2. Remove a task");
         System.out.println("3. Update a task");
